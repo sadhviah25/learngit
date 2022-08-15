@@ -33,5 +33,6 @@ class scoreCard
     static void put_total_Score()
     {
         System.out.println("Total score is "+total);
+        System.out.println("added new line for git demo");
     } 
 }
